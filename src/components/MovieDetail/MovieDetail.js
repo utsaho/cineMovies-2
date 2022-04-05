@@ -17,7 +17,7 @@ const MovieDetail = () => {
                 {/* 
                     //! You can add a dynamic link from IMDB
                  */}
-                <a href='https://www.google.com/' target='blank' className='p-5 bg-indigo-200 font-bold ml-5 rounded-md hover:bg-indigo-300'>Watch Live</a>
+                <a href='https://www.google.com/' target='blank' className='p-5 bg-indigo-200 font-bold ml-5 rounded-md hover:bg-indigo-300'>Watch Online</a>
             </div>
             <div className='w-full border-4 md:row-span-3 sm:col-span-1 mt-5'><img src={`${movie ? movie.img : ''}`} className='h-full' alt="" /></div>
         </div>
