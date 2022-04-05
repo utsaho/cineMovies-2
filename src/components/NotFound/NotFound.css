@@ -1,0 +1,10 @@
+.notFound {
+    position: relative;
+}
+
+.notFound .icon {
+    position: absolute;
+    top: 160px;
+    bottom: 200px;
+    right: 50%;
+}
