@@ -1,9 +1,14 @@
 import React from 'react';
+import { EmojiSadIcon } from '@heroicons/react/solid'
 
 const NotFound = () => {
     return (
-        <div>
-            <h1 className='text-8xl text-center'>Page Not found</h1>
+        <div className='relative notFound'>
+            <div>
+                <h2 className='text-center w-full'>
+                    <EmojiSadIcon className='w-24 h-24 text-center'></EmojiSadIcon>
+                </h2>
+            </div>
         </div>
     );
 };

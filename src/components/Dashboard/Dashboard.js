@@ -7,18 +7,18 @@ import Piechart from '../PieChart/Piechart';
 
 const Dashboard = () => {
     return (
-        <div className='grid md:grid-cols-2 sm:grid-cols-1 mt-10 gap-5'>
-            <ResponsiveContainer width="100%" className='border-2'>
-                <Linechart></Linechart>
+        <div className='grid md:grid-cols-2 sm:grid-cols-1 mt-14 gap-5'>
+            <ResponsiveContainer width="100%">
+                <Linechart>MONTH WISE SELL</Linechart>
             </ResponsiveContainer>
             <ResponsiveContainer width="100%">
-                <Areachart></Areachart>
+                <Areachart>Investment VS Revenue</Areachart>
             </ResponsiveContainer>
             <ResponsiveContainer width="100%">
-                <Barchart></Barchart>
+                <Barchart>Investment VS Revenue</Barchart>
             </ResponsiveContainer>
             <ResponsiveContainer width="100%">
-                <Piechart></Piechart>
+                <Piechart>Investment VS Revenue</Piechart>
             </ResponsiveContainer>
         </div>
     );
