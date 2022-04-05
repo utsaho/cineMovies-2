@@ -1,5 +1,5 @@
 import React from 'react';
-import { Line, LineChart, XAxis, YAxis, Legend, Tooltip } from 'recharts';
+import { Line, LineChart, XAxis, YAxis, Legend, Tooltip, ResponsiveContainer } from 'recharts';
 import useChart from '../../hooks/useChart';
 
 const Linechart = () => {

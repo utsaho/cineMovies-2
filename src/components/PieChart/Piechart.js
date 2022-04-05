@@ -1,5 +1,5 @@
 import React from 'react';
-import { PieChart, Pie, Sector } from 'recharts';
+import { PieChart, Pie, ResponsiveContainer } from 'recharts';
 import useChart from '../../hooks/useChart';
 const Piechart = () => {
     const [chart, setChart] = useChart();
