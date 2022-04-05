@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <div>
             <MovieDetail></MovieDetail>
-            <CustomerReview numberOfReviews={9}></CustomerReview>
+            <CustomerReview numberOfReviews={3}></CustomerReview>
         </div>
     );
 };

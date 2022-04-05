@@ -20,11 +20,15 @@ const Review = ({ review }) => {
 
                     <h2>
                         Ratings:
-                        {
-                            temp.map(r => <Star isHalf={true} key={r.id}></Star>)
-                        }
-                        {halfStart ? <Star isHalf={false} key={11}></Star> : <Star isHalf={true} key={10}></Star>}
-                        {review.rating}</h2>
+                        <small className='text-orange-700 ml-2'>
+
+                            {
+                                temp.map(r => <Star isHalf={true} key={r.id}></Star>)
+                            }
+                            {halfStart ? <Star isHalf={false} key={11}></Star> : <Star isHalf={true} key={10}></Star>}
+                        </small>
+                        ({review.rating})
+                    </h2>
                 </div>
             </div>
             <div>
