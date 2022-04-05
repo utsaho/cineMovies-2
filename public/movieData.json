@@ -1,0 +1,98 @@
+[
+    {
+        "name": "3 Idiots",
+        "id": 1,
+        "img": "https://img.yts.mx/assets/images/movies/3_idiots_2009/medium-cover.jpg",
+        "price": 120,
+        "ratings": 5,
+        "story": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\"."
+    },
+    {
+        "name": "The Godfather",
+        "id": 2,
+        "img": "https://img.yts.mx/assets/images/movies/The_Godfather_1972/medium-cover.jpg",
+        "price": 200,
+        "ratings": 4,
+        "story": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son."
+    },
+    {
+        "name": "Life Is Beautiful",
+        "id": 3,
+        "img": "https://img.yts.mx/assets/images/movies/life_is_beautiful_1997/medium-cover.jpg",
+        "price": 150,
+        "ratings": 4,
+        "story": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp."
+    },
+    {
+        "name": "Titanic",
+        "id": 4,
+        "img": "https://img.yts.mx/assets/images/movies/Titanic_1997/medium-cover.jpg",
+        "price": 175,
+        "ratings": 4.5,
+        "story": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
+    },
+    {
+        "name": "The Avengers",
+        "id": 5,
+        "img": "https://img.yts.mx/assets/images/movies/The_Avengers_2012/medium-cover.jpg",
+        "price": 150,
+        "ratings": 5,
+        "story": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity."
+    },
+    {
+        "name": "City of God",
+        "id": 6,
+        "img": "https://img.yts.mx/assets/images/movies/city_of_god_2002/medium-cover.jpg",
+        "price": 120,
+        "ratings": 4.7,
+        "story": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin."
+    },
+    {
+        "name": "OMG: Oh My God!",
+        "id": 7,
+        "img": "https://img.yts.mx/assets/images/movies/omg_oh_my_god_2012/medium-cover.jpg",
+        "price": 110,
+        "ratings": 5,
+        "story": "A shopkeeper takes God to court when his shop is destroyed by an earthquake."
+    },
+    {
+        "name": "Spider-Man: No Way Home",
+        "id": 8,
+        "img": "https://img.yts.mx/assets/images/movies/spider_man_no_way_home_2021/medium-cover.jpg",
+        "price": 145,
+        "ratings": 4.7,
+        "story": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man."
+    },
+    {
+        "name": "The Shawshank Redemption",
+        "id": 9,
+        "img": "https://img.yts.mx/assets/images/movies/The_Shawshank_Redemption_1994/medium-cover.jpg",
+        "price": 200,
+        "ratings": 5,
+        "story": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+        "name": "The Dark Knight",
+        "id": 10,
+        "img": "https://img.yts.mx/assets/images/movies/The_Dark_Knight_2008/medium-cover.jpg",
+        "price": 95,
+        "ratings": 4,
+        "story": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+        "name": "Schindler's List",
+        "id": 11,
+        "img": "https://img.yts.mx/assets/images/movies/Schindlers_List_1993/medium-cover.jpg",
+        "price": 109,
+        "ratings": 4.6,
+        "story": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+    },
+    {
+        "name": "12 Angry Men",
+        "id": 12,
+        "img": "https://img.yts.mx/assets/images/movies/12_angry_men_1997/medium-cover.jpg",
+        "price": 112,
+        "ratings": 5,
+        "story": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict."
+    }
+]
