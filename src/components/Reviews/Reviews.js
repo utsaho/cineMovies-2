@@ -1,9 +1,10 @@
 import React from 'react';
+import CustomerReview from '../CustomerReview/CustomerReview';
 
 const Reviews = () => {
     return (
         <div>
-            <h2 className="text-lg">This is review section</h2>
+            <CustomerReview numberOfReviews={9}>What our customers say!</CustomerReview>
         </div>
     );
 };

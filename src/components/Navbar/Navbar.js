@@ -29,7 +29,7 @@ const Navbar = () => {
             <nav className={`w-full flex md:justify-center items-center absolute duration-500 ease-in ${open ? 'top-6 justify-end right-[-20]' : 'top-[-120px] right-[-20]'}`}>
                 <ul className='md:flex sm:block'>
                     {
-                        routes.map(route => <li className='sm:my-3' key={route.id}><NavLink style={linkStyle} className='px-2' to={`${route.link}/`}>{route.name}</NavLink></li>)
+                        routes.map(route => <li className='sm:my-3' key={route.id}><NavLink style={linkStyle} className='px-2' to={`${route.link}`}>{route.name}</NavLink></li>)
                     }
                 </ul>
             </nav>
