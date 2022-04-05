@@ -4,7 +4,7 @@ import Review from '../Review/Review';
 
 const CustomerReview = (props) => {
     const numberOfReviews = props.numberOfReviews;
-    const [reviews, setReviews] = useReviews();
+    const [reviews] = useReviews();
     const slicedReview = reviews.slice(0, numberOfReviews);
     // console.log(numberOfReviews);
     return (

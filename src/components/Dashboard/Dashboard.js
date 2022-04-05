@@ -1,9 +1,12 @@
 import React from 'react';
+import Linechart from '../LineChart/Linechart';
+import Areachart from '../AreaChart/Areachart';
 
 const Dashboard = () => {
     return (
-        <div>
-            <h2 className="text-xl">This is Dashboard</h2>
+        <div className='grid gird-cols-2 mt-10'>
+            <Linechart></Linechart>
+            <Areachart></Areachart>
         </div>
     );
 };
